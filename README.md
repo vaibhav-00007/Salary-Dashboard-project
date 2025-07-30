@@ -27,4 +27,5 @@ The dataset used for this project contains real-world data science job informati
 ## Dashboard Build
 📉 Charts
 📊 Data Science Job Salaries - Bar Chart
+
 ![Data Science Job Salaries - Bar Chart](2_Images/Job_salary.png)

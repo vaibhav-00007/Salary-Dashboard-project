@@ -1,2 +1,2 @@
-# Salary-Dashboard-project
+# Excel Salary Dashboard
 Excel-based Salary Dashboard visualisation project

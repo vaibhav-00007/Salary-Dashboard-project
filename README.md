@@ -1,2 +1,3 @@
 # Excel Salary Dashboard
-Excel-based Salary Dashboard visualisation project
+![Alt text](2_Images/Sketch.png)
+

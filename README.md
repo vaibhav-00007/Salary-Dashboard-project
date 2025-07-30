@@ -90,7 +90,7 @@ IF(
   -🎯 User input is restricted to predefined, validated schedule types
   -🚫 Incorrect or inconsistent entries are prevented
   -👥 Overall usability of the dashboard is enhanced
-### Conclusion
+## Conclusion
 I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries.
 
 
